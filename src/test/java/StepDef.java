@@ -161,8 +161,8 @@ public class StepDef {
 
     @When("^i should navigate to book flight page to get the ticket$")
     public void i_should_navigate_to_book_flight_page_to_get_the_ticket() {
-   //String actual=driver.findElement(By.linkText("     Total Price (including taxes):")).getText();
-        //assertTrue(actual.contains("Total Price"));
+   String actual=driver.findElement(By.linkText("     Total Price (including taxes):")).getText();
+        assertTrue(actual.contains("Total Price"));
    }
 
     @When("^i enter customer firstname \"([^\"]*)\"$")
