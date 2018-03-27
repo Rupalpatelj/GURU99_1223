@@ -39,4 +39,4 @@ Feature: Check Login functionalty
       | Round Trip | 1          | London         | New York    | Economy class  |Rupal      |Patel    |8765  |merseywalk|Northolt|ub5 6th    |UNITED KINGDOM|
       | One Way    | 1          | London         | Paris       | Business class |Sudeep     |Patel    |1234  |southesk  |Eastham |e7 8ll     |UNITED KINGDOM |
       | One Way    | 2          | London         | Paris       | Business class |Aakash     |Patel    |5649  |southesk  |Eastham |e7 8ll     |UNITED KINGDOM |
-
+      | One Way    | 2          | London         | Paris       | Business class |vinay     |Patel    |5986  |southesk  |Eastham |e7 8ll     |UNITED KINGDOM |
